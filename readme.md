@@ -1,4 +1,4 @@
-Revolt — #1 Edgenuity Hack 🚀
+## Revolt — #1 Edgenuity Hack 🚀
 Automatically completes exams and assignments
 
 # Discord: [https://discord.gg/revoltly](https://discord.gg/revoltly)
