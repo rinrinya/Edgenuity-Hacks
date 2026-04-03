@@ -8,7 +8,6 @@ https://github.com/user-attachments/assets/ed899ee9-598e-4e0d-9133-f5d0866b28ba
 
 **Join 10,000+ Users • 1,000+ Reviews**
 
-**🔥 Features:**
 * 🎯 **100% accurate answers**
 * 🕵️ **Undetectable by Edgenuity**
 * 🤖 **Fully automated bot**
