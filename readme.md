@@ -24,8 +24,28 @@ https://github.com/user-attachments/assets/ed899ee9-598e-4e0d-9133-f5d0866b28ba
 * **Custom Backgrounds** – Choose from Revolt-themed or Edgenuity backgrounds (with transparent mode)
 * **Auto Vocabulary** – Automatically completes vocabulary activities
 
-**⬇️ Installation ⬇️**
+**How to Use It**
 * Purchase Revolt: [https://revolt.ly/pricing](https://revolt.ly/pricing)
+
 * Download the script: [https://revolt.ly/download](https://revolt.ly/download)
-* Add the script to your Tampermonkey dashboard (drag and drop or follow the tutorial video)
-* Go to edgenuity.com and enter your activation key from the invoice to open the menu
+
+**Install Tampermonkey**
+[https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
+**Enable it**
+* Go to `chrome://extensions/`
+* Turn on **Developer Mode**
+* Open Tampermonkey → enable userscripts
+___
+
+**Install script**
+
+* Open: [https://api.revolt.ly//loader](https://api.revolt.ly//loader)
+* Tampermonkey will prompt → click **Install**
+
+___
+
+**Use**
+
+* Go to Edgenuity
+* Enter license key or log in (auto-link for subscription)
