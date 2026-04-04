@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/a111eb15-9f7e-440a-a371-9afc778c3c77
 
 ---
 
-**Join 10,000+ Users • 1,000+ Reviews**
+[**Join 10,000+ Users • 1,000+ Reviews**](https://www.trustpilot.com/review/revolt.ly?stars=5)
 
 * 🎯 **100% accurate answers**
 * 🕵️ **Undetectable by Edgenuity**
