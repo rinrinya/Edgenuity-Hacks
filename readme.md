@@ -64,7 +64,7 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 
 <br>
 
-![developermodetamp](https://github.com/user-attachments/assets/c0ac881e-94aa-43a3-9f31-851f3a27b527)
+![yayayawooodevelopermode](https://github.com/user-attachments/assets/b3fce4e0-ee2a-4404-8e91-3fdb659a94b5)
 
 <br>
 
