@@ -74,11 +74,12 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 
 Thank you for checking us out <3!
 
-<sub><i>ps. we also have alot of freebies in discord server (we charge just enough to keep server open)</i></sub>
+<img width="700" height="983" alt="image" src="https://github.com/user-attachments/assets/cb466bc3-fea6-44f3-b41b-b6a22e0ee80c" />
+
+<sub><i>ps. we also have alot of freebies in [discord server](https://disocrd.gg/revoltly) (we charge just enough to keep servers on)</i></sub>
 
 Thank you to:
 
 - [Chino](https://guns.lol/chinooo)
 - [Blue Obsidian](https://www.blueobsidian.me/)
 
-<img width="700" height="983" alt="image" src="https://github.com/user-attachments/assets/cb466bc3-fea6-44f3-b41b-b6a22e0ee80c" />
