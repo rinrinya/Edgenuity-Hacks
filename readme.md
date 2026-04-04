@@ -51,7 +51,7 @@
 * Go to `chrome://extensions/`
 * Turn on **Developer Mode**
 * Open Tampermonkey → enable userscripts
-![developermode](https://github.com/user-attachments/assets/bdf963bb-96a5-41d9-9932-ed0e5797cf27)
+![developermodetamp](https://github.com/user-attachments/assets/c0ac881e-94aa-43a3-9f31-851f3a27b527)
 
 **Install script**
 * Open:
