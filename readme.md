@@ -47,13 +47,9 @@
 * Download the script:
   [https://revolt.ly/download](https://revolt.ly/download)
 
----
-
 ## Install Tampermonkey
 
 [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-
----
 
 ## Enable it
 
@@ -61,15 +57,11 @@
 * Turn on **Developer Mode**
 * Open Tampermonkey → enable userscripts
 
----
-
 ## Install script
 
 * Open:
   [https://api.revolt.ly//loader](https://api.revolt.ly//loader)
 * Tampermonkey will prompt → click **Install**
-
----
 
 ## Use
 
