@@ -72,12 +72,11 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 
 ![enterkeyyaayaya](https://github.com/user-attachments/assets/9aa8b064-4aa5-46cd-8ee5-74709da16490)
 
-Thank you! ps. we also have alot of freebies in discord server! (we charge just enough to keep server open)
+Thank you!
+*ps. we also have alot of freebies in discord server (we charge just enough to keep server open)*
+---
 Thank you to:
-
-[Chino](https://guns.lol/chinooo)
-
+[Chino](https://guns.lol/chinooo)  
 [Blue Obsidian](https://www.blueobsidian.me/)
 
 <img width="700" height="983" alt="image" src="https://github.com/user-attachments/assets/cb466bc3-fea6-44f3-b41b-b6a22e0ee80c" />
-
