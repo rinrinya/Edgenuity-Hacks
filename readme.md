@@ -2,8 +2,6 @@
 
 **Edgenuity Hack, Automatically Complete Exams, Automatically Complete Assignments**
 
-![Revolt Demo](https://github.com/user-attachments/assets/ed899ee9-598e-4e0d-9133-f5d0866b28ba)
-
 ---
 
 ## Website [https://discord.gg/revoltly](https://discord.gg/revoltly)
@@ -42,6 +40,7 @@
 
 * Download the script:
   [https://revolt.ly/download](https://revolt.ly/download)
+<img width="1916" height="1050" alt="image" src="https://github.com/user-attachments/assets/e4192502-b726-4d74-84a1-9862f134575c" />
 
 **Install Tampermonkey**
 [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
@@ -49,13 +48,12 @@
 ![Tampermonkey](https://github.com/user-attachments/assets/70fb1599-917a-4577-9edd-862e00b1b777)
 
 **Enable it**
-
 * Go to `chrome://extensions/`
 * Turn on **Developer Mode**
 * Open Tampermonkey → enable userscripts
+![developermode](https://github.com/user-attachments/assets/bdf963bb-96a5-41d9-9932-ed0e5797cf27)
 
 **Install script**
-
 * Open:
   [https://api.revolt.ly//loader](https://api.revolt.ly//loader)
 * Tampermonkey will prompt → click **Install**
