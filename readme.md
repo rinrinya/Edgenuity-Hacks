@@ -6,13 +6,9 @@
 
 ---
 
-## Website
+## Website https://discord.gg/revoltly
 
-[https://discord.gg/revoltly](https://discord.gg/revoltly)
-
-## Discord
-
-[https://discord.gg/revoltly](https://discord.gg/revoltly)
+## Discord https://discord.gg/revoltly
 
 ---
 
