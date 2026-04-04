@@ -74,6 +74,7 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 
 Thank you! ps. we also have alot of freebies in discord server! (we charge just enough to keep server open)
 Thank you to:
+
 [Chino](https://guns.lol/chinooo)
 
 [Blue Obsidian](https://www.blueobsidian.me/)
