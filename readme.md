@@ -72,6 +72,8 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 
 ![enterkeyyaayaya](https://github.com/user-attachments/assets/9aa8b064-4aa5-46cd-8ee5-74709da16490)
 
+<br>
+
 Thank you for checking us out <3!
 
 <img width="700" height="983" alt="image" src="https://github.com/user-attachments/assets/cb466bc3-fea6-44f3-b41b-b6a22e0ee80c" />
