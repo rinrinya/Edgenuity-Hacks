@@ -47,7 +47,7 @@
 
 <br>
 
-**Install Tampermonkey**  
+### **Install Tampermonkey**  
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
 <br>
@@ -56,7 +56,7 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 
 <br>
 
-**Enable it**
+### **Enable it**
 
 * Go to `chrome://extensions/`
 * Turn on **Developer Mode**
@@ -68,7 +68,7 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 
 <br>
 
-**Use**
+###**Use**
 
 * Go to Edgenuity
 * Enter license key or log in (auto-link for subscription)
