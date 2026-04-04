@@ -71,3 +71,10 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 <br>
 
 ![enterkeyyaayaya](https://github.com/user-attachments/assets/9aa8b064-4aa5-46cd-8ee5-74709da16490)
+
+## Thank you ps. we also have alot of freebies in discord server! (we charge just enough to keep server open)
+[Chino](https://guns.lol/chinooo)
+[Blue Obsidian](https://www.blueobsidian.me/)
+
+https://github.com/user-attachments/assets/8a4747a1-d558-4687-9151-86346c9b3814
+
