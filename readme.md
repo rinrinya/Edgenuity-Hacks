@@ -35,30 +35,44 @@
 
 ## How to Use It
 
-* Purchase Revolt:
-  [https://revolt.ly/pricing](https://revolt.ly/pricing)
+* Purchase Revolt:  
+  https://revolt.ly/pricing
 
-* Download the script:
-  [https://revolt.ly/download](https://revolt.ly/download)
+* Download the script:  
+  https://revolt.ly/download
+
+<br>
+
 <img width="1916" height="1050" alt="image" src="https://github.com/user-attachments/assets/e4192502-b726-4d74-84a1-9862f134575c" />
 
-**Install Tampermonkey**
-[https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+<br>
+
+**Install Tampermonkey**  
+https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
+<br>
 
 ![Tampermonkey](https://github.com/user-attachments/assets/70fb1599-917a-4577-9edd-862e00b1b777)
 
+<br>
+
 **Enable it**
+
 * Go to `chrome://extensions/`
 * Turn on **Developer Mode**
 * Open Tampermonkey → enable userscripts
+
+<br>
+
 ![developermodetamp](https://github.com/user-attachments/assets/c0ac881e-94aa-43a3-9f31-851f3a27b527)
 
-**Install script**
-* Open:
-  [https://api.revolt.ly//loader](https://api.revolt.ly//loader)
-* Tampermonkey will prompt → click **Install**
+<br>
 
 **Use**
 
 * Go to Edgenuity
 * Enter license key or log in (auto-link for subscription)
+
+<br>
+
+![enterkeyyaayaya](https://github.com/user-attachments/assets/9aa8b064-4aa5-46cd-8ee5-74709da16490)
