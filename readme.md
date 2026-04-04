@@ -61,7 +61,7 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 
 <br>
 
-###**Use**
+### **Use**
 
 * Go to Edgenuity
 * Enter license key or log in (auto-link for subscription)
