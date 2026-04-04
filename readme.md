@@ -42,18 +42,17 @@
 
 * Download the script:
   [https://revolt.ly/download](https://revolt.ly/download)
+<img width="1916" height="1050" alt="image" src="https://github.com/user-attachments/assets/468ccd98-1fd2-4708-b208-9f28ea9f4aeb" />
 
 **Install Tampermonkey**
 [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-<img width="1905" height="1051" alt="image" src="https://github.com/user-attachments/assets/7f4521c4-ce5d-42d7-9248-6f794aa24817" />
-
+![Tampermonkey](https://github.com/user-attachments/assets/70fb1599-917a-4577-9edd-862e00b1b777)
 
 
 **Enable it**
 * Go to `chrome://extensions/`
 * Turn on **Developer Mode**
 * Open Tampermonkey → enable userscripts
-
 
 
 **Install script**
