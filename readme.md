@@ -45,7 +45,7 @@
 
 **Install Tampermonkey**
 [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-![Revolt Demo(TAMPERMONKEY)](https://github.com/user-attachments/assets/ed899ee9-598e-4e0d-9133-f5d0866b28ba)
+![Revolt Demo](https://github.com/user-attachments/assets/ed899ee9-598e-4e0d-9133-f5d0866b28ba)
 
 **Enable it**
 * Go to `chrome://extensions/`
