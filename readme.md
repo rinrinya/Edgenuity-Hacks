@@ -43,23 +43,23 @@
 * Download the script:
   [https://revolt.ly/download](https://revolt.ly/download)
 
-## Install Tampermonkey
+**Install Tampermonkey**
 
 [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
-## Enable it
+**Enable it**
 
 * Go to `chrome://extensions/`
 * Turn on **Developer Mode**
 * Open Tampermonkey → enable userscripts
 
-## Install script
+**Install script**
 
 * Open:
   [https://api.revolt.ly//loader](https://api.revolt.ly//loader)
 * Tampermonkey will prompt → click **Install**
 
-## Use
+**Use**
 
 * Go to Edgenuity
 * Enter license key or log in (auto-link for subscription)
