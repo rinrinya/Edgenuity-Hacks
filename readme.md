@@ -45,6 +45,7 @@
 
 **Install Tampermonkey**
 [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+<img width="1905" height="1051" alt="image" src="https://github.com/user-attachments/assets/7f4521c4-ce5d-42d7-9248-6f794aa24817" />
 
 
 
