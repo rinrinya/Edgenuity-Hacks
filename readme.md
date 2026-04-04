@@ -2,13 +2,13 @@
 
 **Edgenuity Hack, Automatically Complete Exams, Automatically Complete Assignments**
 
-[https://github.com/user-attachments/assets/ed899ee9-598e-4e0d-9133-f5d0866b28ba](https://github.com/user-attachments/assets/ed899ee9-598e-4e0d-9133-f5d0866b28ba)
+![Revolt Demo](https://github.com/user-attachments/assets/ed899ee9-598e-4e0d-9133-f5d0866b28ba)
 
 ---
 
-## Website https://discord.gg/revoltly
+## Website [https://discord.gg/revoltly](https://discord.gg/revoltly)
 
-## Discord https://discord.gg/revoltly
+## Discord [https://discord.gg/revoltly](https://discord.gg/revoltly)
 
 ---
 
@@ -45,21 +45,22 @@
 
 **Install Tampermonkey**
 [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-![Revolt Demo](https://github.com/user-attachments/assets/ed899ee9-598e-4e0d-9133-f5d0866b28ba)
+
+![Tampermonkey](https://github.com/user-attachments/assets/70fb1599-917a-4577-9edd-862e00b1b777)
 
 **Enable it**
+
 * Go to `chrome://extensions/`
 * Turn on **Developer Mode**
 * Open Tampermonkey → enable userscripts
 
-
 **Install script**
+
 * Open:
   [https://api.revolt.ly//loader](https://api.revolt.ly//loader)
 * Tampermonkey will prompt → click **Install**
 
-
-
 **Use**
+
 * Go to Edgenuity
 * Enter license key or log in (auto-link for subscription)
