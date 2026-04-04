@@ -8,6 +8,8 @@
 
 ## Discord [https://discord.gg/revoltly](https://discord.gg/revoltly)
 
+<img width="1920" height="1080" alt="videoframe_3684" src="https://github.com/user-attachments/assets/86a5818e-d797-4d78-b25e-b8ddc1b28818" />
+
 ---
 
 **Join 10,000+ Users • 1,000+ Reviews**
